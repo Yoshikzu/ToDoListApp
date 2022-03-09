@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="strTitle">Tasks</string>
+    <string name="label_new_task">Create Task</string>
+    <string name="label_title">Title</string>
+    <string name="label_date">Date</string>
+    <string name="label_hour">Hour</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_tasks">Tasks</string>
+    <string name="label_description_new_task">New Task</string>
+    <string name="label_edit">Change</string>
+    <string name="label_deletar">Delete</string>
+    <string name="label_without_tasks">Oops! You don't have\n any tasks</string>
+</resources>
