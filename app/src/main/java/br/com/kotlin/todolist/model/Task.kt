@@ -1,10 +1,10 @@
 package br.com.kotlin.todolist.model
 
 data class Task(
+    val id: Int = 0,
     val title: String,
     val hour: String,
-    val date: String,
-    val id: Int = 0
+    val date: String
 ){
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
